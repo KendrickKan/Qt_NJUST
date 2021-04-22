@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/bifplane1.png</file>
+        <file>img/bigplane.png</file>
+        <file>img/bigplaneboom.gif</file>
+        <file>img/bk1.png</file>
+        <file>img/boom.png</file>
+        <file>img/bullet1.png</file>
+        <file>img/midplane.png</file>
+        <file>img/midplane1.png</file>
+        <file>img/midplaneboom.gif</file>
+        <file>img/myboom.gif</file>
+        <file>img/myplane.gif</file>
+        <file>img/plane.png</file>
+        <file>img/plane3.gif</file>
+        <file>img/planeboom.gif</file>
+        <file>img/start.JPG</file>
+        <file>img/start.png</file>
+        <file>img/background.png</file>
+        <file>img/Tetris.ico</file>
+        <file>img/kd.png</file>
+        <file>img/lgt.png</file>
+        <file>img/lmc.png</file>
+    </qresource>
+</RCC>

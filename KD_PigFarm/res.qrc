@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/muchangbackgaound.jpg</file>
+        <file>Image/pigapp.jpg</file>
+        <file>Image/tiantianyangzhutiantiankaixin.png</file>
+        <file>Image/timg.jpg</file>
+        <file>Image/pigdongtu.gif</file>
+        <file>Image/BackButton.png</file>
+        <file>Image/pigtouming.png</file>
+        <file>Image/pighome.png</file>
+        <file>Image/blackpig.png</file>
+        <file>Image/colorfulpig.png</file>
+        <file>Image/redpig.png</file>
+        <file>Image/whitepig.png</file>
+        <file>Image/PauseButton.JPG</file>
+        <file>Image/beginbutton.JPG</file>
+        <file>Image/infectedpig.png</file>
+        <file>Image/infectbutton.JPG</file>
+        <file>Image/allinfected.png</file>
+        <file>Image/partinfected.png</file>
+        <file>Image/showbutton.JPG</file>
+        <file>Image/controlbutton.JPG</file>
+        <file>Image/selllogbutton.JPG</file>
+        <file>Image/buylogbutton.JPG</file>
+    </qresource>
+</RCC>
